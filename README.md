@@ -12,3 +12,7 @@ L'objectif est de réalisé une calculatrice permettan l'addition ou la soustrac
 - [x] Affiche erreur si un nombre est supérieur a 9
 - [ ] Multiplication
 - [ ] Soustraction
+
+## Installation 
+
+``` gh repo clone mathiasbamas/CalculatriceBinaire ```
