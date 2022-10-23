@@ -15,7 +15,7 @@ L'objectif est de réalisé une calculatrice permettan l'addition ou la soustrac
 
 ## Additionneur/Soustracteur 
 
-L'addioneur/Soustracteur a pour but de renvoyer le resultat de l'addition ou de la soustration entre deux bits, ces dernier doivent respecter les tables de verité suivance 
+**L'addioneur/Soustracteur** a pour but de renvoyer le resultat de l'addition ou de la soustration entre deux bits, ces dernier doivent respecter les **tables de verité** suivance 
 
 | Additioneur                           |     
 | A        | B       | R      | S       |     
@@ -43,8 +43,8 @@ On obtient alors sur logisim le circuit suivant
 
 ## Affichage 7 segments
 
-Pour savoir quel segment allumé pour quelle valeur on a dressé dans un premier temps un tableau pour les segments indiquant leur affichage ou nom selon les valeurs des 4 bits en entrée. 
-Avec ce tableau on a ensuite dressé une table de Karnaugh pour chaque segment afin d’obtenir les conditions d’affichage de chaque segment en fonction des 4 bits en entrée En combinant les conditions de chaque segment on obtient le circuit pour l’affichage des nombres.
+Pour savoir quel segment allumé pour quelle valeur on a dressé dans un premier temps un tableau pour les segments indiquant leur affichage ou nom selon les valeurs des **4 bits** en entrée. 
+Avec ce tableau on a ensuite dressé une **table de Karnaugh** pour chaque segment afin d’obtenir les conditions d’affichage de chaque segment en fonction des 4 bits en entrée En combinant les conditions de chaque segment on obtient le circuit pour l’affichage des nombres.
 
 ## Resultat 
 
