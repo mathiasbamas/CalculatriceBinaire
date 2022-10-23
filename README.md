@@ -13,6 +13,23 @@ L'objectif est de réalisé une calculatrice permettan l'addition ou la soustrac
 - [ ] Multiplication
 - [ ] Soustraction
 
-## Installation 
+## Additionneur/Soustracteur 
 
-``` gh repo clone mathiasbamas/CalculatriceBinaire ```
+L'addioneur/Soustracteur a pour but de renvoyer le resultat de l'addition ou de la soustration entre deux bits, ces dernier doivent respecter les tables de verité suivance 
+
+| Additioneur                           | 
+| A        | B       | R      | S       |
+| :------: | :-----: | :----: | :-----: |
+| 0        | 0       | 0      | 0       |
+| 0        | 1       | 0      | 1       |
+| 1        | 0       | 0      | 1       |
+| 1        | 1       | 1      | 0       |
+
+| Soustracteur                          |
+| A        | B       | R      | S       |
+| :------: | :-----: | :----: | :-----: |
+| 0        | 0       | 0      | 0       |
+| 0        | 1       | 1      | 1       |
+| 1        | 0       | 1      | 0       |
+| 1        | 1       | 0      | 0       |
+
