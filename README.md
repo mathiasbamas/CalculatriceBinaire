@@ -35,10 +35,10 @@ L'addioneur/Soustracteur a pour but de renvoyer le resultat de l'addition ou de 
 
 On obtient alors sur logisim le circuit suivant 
 
-#####Demi Additioneur Soustracteur
+##### Demi Additioneur Soustracteur
 ![alt text](https://github.com/mathiasbamas/CalculatriceBinaire/blob/main/demi-AS.png "Demi Additioneur Soustracteur")
 
-#####Additioneur Soustracteur
+##### Additioneur Soustracteur
 ![alt text](https://github.com/mathiasbamas/CalculatriceBinaire/blob/main/AS.png "Additioneur Soustracteur")
 
 
